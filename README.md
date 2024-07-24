@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/Soly_001" target="blank"><img src="https://img.shields.io/twitter/follow/Soly_001?logo=twitter&style=for-the-badge" alt="Soly_001" /></a> </p>
 
-- 🔭 I’m currently Learning  **Angular Framwork**
+- 🔭 I’m Currently Working On  **Angular Dashboard **
 
 - 💬 Ask me about **Angular**
 
